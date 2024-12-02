@@ -1,0 +1,33 @@
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.webm
+
+# Ignore audio files
+*.wav
+*.mp3
+*.aac
+*.flac
+*.ogg
+*.m4a
+
+# Ignore text and subtitle files
+*.txt
+*.srt
+*.vtt
+
+# Ignore other common media formats
+*.m4v
+*.3gp
+*.mpeg
+*.mpg
+*.mpe
+*.asf
+*.asx
+
+# Ignore MacOS system files
+.DS_Store
